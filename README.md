@@ -4,4 +4,4 @@
 ![Location](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) `Warsaw, Poland`  
 ![Code](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) `Python | NextJS | GoLang`
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=uIvPuGpT&leftColor=1E232A&rightColor=D2DCF6&type=total&label=Views&style=lower)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=uIvPuGpT&leftColor=1E232A&rightColor=D2DCF6&type=unique&label=Views&style=lower)
